@@ -1,7 +1,7 @@
 //Formas de criação de função em JS
 //Higjer-Order function
 
-//Criação de forma literal
+//Criação de forma literal//
 function func1() {}
 
 //Armazenando função em uma variável
